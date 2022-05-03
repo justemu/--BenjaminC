@@ -64,7 +64,7 @@ nov
 
 2019
 
-![](Novo_Nordisk.png..png)
+![](Novo_Nordisk.png)
 
 Novo Nordisk and Dicerna announce a global licensing and research collaboration focused on cardiometabolic diseases.
 
@@ -72,7 +72,7 @@ oct
 
 2019
 
-![](Roche-logo.png..png)
+![](Roche-logo.png)
 
 Roche and Dicerna announce a global licensing and research collaboration focused on chronic hepatitis B virus infection.
 
@@ -92,7 +92,7 @@ oct
 
 2018
 
-![](Alexion-Pharmaceuticals-Logo-Feb-13-2019-300x120.png..png)
+![](Alexion-Pharmaceuticals-Logo-Feb-13-2019-300x120.png)
 
 Alexion Pharmaceuticals and Dicerna announce a collaboration to create RNAi therapies for complement-mediated diseases.
 
@@ -100,7 +100,7 @@ oct
 
 2018
 
-![](Lilly-Logo-Feb-13-2019-300x164.jpg..jpg)
+![](Lilly-Logo-Feb-13-2019-300x164.jpg)
 
 Eli Lilly and Dicerna announce a global licensing and research collaboration focused on creating new medicines in cardiometabolic disease, neurodegenerative diseases and pain. 
 
