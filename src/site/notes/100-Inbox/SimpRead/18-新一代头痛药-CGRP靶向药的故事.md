@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-inbox/simp-read/18-cgrp/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/100-inbox/simp-read/18-cgrp/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 新一代头痛药——CGRP 靶向药的故事
